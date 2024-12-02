@@ -25,16 +25,17 @@ Drilldown
 
 
 Configure the segment,
-- the variables
+- the variable based on the key "app" (need to be adapt to your context)
 
-![image](https://github.com/user-attachments/assets/503b15d5-6a65-47ef-9401-e3a8f03a7867)
+![image](https://github.com/user-attachments/assets/80c3e461-5af9-44c0-9c2b-0a19c02f101c)
 
 ```
-fetch dt.entity.host
+fetch dt.entity.process_group
 | expand  tags
 | filter matchesPhrase(tags,"app")
 | dedup tags
 | fields tags
+| sort tags asc
 ```
 
 
