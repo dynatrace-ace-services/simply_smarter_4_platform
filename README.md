@@ -1,6 +1,6 @@
 # Overview Dashboard with segment
 
-## Legacy application
+## Legacy project
 
 Based on segment "tag", this dashboard displays 
 - Application based only on the satus (Preview metric is coming soon ... ) 
@@ -37,5 +37,6 @@ Configure the segment,
 - the entities
 ![image](https://github.com/user-attachments/assets/e93af1b2-fb1b-4dbf-b58e-20f4ba920a7e)
 
+## Cloud Native project
 
-
+- coming soon
