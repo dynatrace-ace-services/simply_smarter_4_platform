@@ -25,7 +25,7 @@ Drilldown
 
 
 Configure the segment,
-- the variable based on the key "app" (need to be adapt to your context)
+- the variable based on the key `app` (need to be adapt to your context)
 
 ![image](https://github.com/user-attachments/assets/80c3e461-5af9-44c0-9c2b-0a19c02f101c)
 
