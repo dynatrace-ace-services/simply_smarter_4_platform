@@ -29,11 +29,13 @@ Configure the segment,
 
 ![image](https://github.com/user-attachments/assets/503b15d5-6a65-47ef-9401-e3a8f03a7867)
 
-'''fetch dt.entity.host
+```
+fetch dt.entity.host
 | expand  tags
 | filter matchesPhrase(tags,"app")
 | dedup tags
-| fields tags'''
+| fields tags
+```
 
 
 - the entities
