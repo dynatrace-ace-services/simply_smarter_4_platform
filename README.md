@@ -4,7 +4,7 @@
 
 Dashboard 
 - [Download](https://raw.githubusercontent.com/dynatrace-ace-services/segment/refs/heads/main/_OverviewWithSegment-Web_Service_Process_Host_0.1.json)  v0.1
-- [Demo live](https://guu84124.apps.dynatrace.com/ui/document/v0/#share=ae79d902-051f-427b-93cf-78938b0bddd8)  (internal access)
+- [Demo live](https://guu84124.apps.dynatrace.com/ui/document/v0/#share=ae79d902-051f-427b-93cf-78938b0bddd8) (internal access)  
 (for demo live there is no segment with web application entities, you can use this one `host_group` / `google_cloud`)
 
 Based on segment, this dashboard displays 
