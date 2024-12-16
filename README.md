@@ -35,13 +35,17 @@ Drilldown
 Configure the segment, differnt possibilities
 1) segment based on tags (recommanded on process group)
    
-![image](https://github.com/user-attachments/assets/2f9c910e-a1ad-4f1b-99cc-b8db50a2f05d)
+![image](https://github.com/user-attachments/assets/2f9c910e-a1ad-4f1b-99cc-b8db50a2f05d)  
+
+with variables configuration = 
+
 ![image](https://github.com/user-attachments/assets/ffd2a9ed-35a1-4e34-ac36-e75e075fe4c3)
 ```
-fetch dt.entity.cloud_application_namespace
-| fields namespace = entity.name
-| dedup namespace
-| sort namespace
+fetch dt.entity.host
+| expand  tags
+| filter matchesPhrase(tags,"app")
+| dedup tags
+| fields tags
 ```
 
 2) segment based on namespace
