@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/06d4d8f2-22c3-4fc6-b061-5b8d06252a44)# Simply smarter - Data Layer Overview 
+# Simply smarter - Data Layer Overview 
 
 Dashboard 
 - [Download](https://raw.githubusercontent.com/dynatrace-ace-services/segment/refs/heads/main/_OverviewWithSegment-Web_Service_Process_Host_0.1.json)  v0.1
