@@ -30,7 +30,8 @@ Drilldown
 ![image](https://github.com/user-attachments/assets/ed780cb7-9822-475f-8eb5-66e5a4685899)
 
 
-Configure the segment, differnt possibilities
+Configure the segment, differnt possibilities  
+
 Sample 1) segment based on tags (recommanded on process group)
    
 ![image](https://github.com/user-attachments/assets/2f9c910e-a1ad-4f1b-99cc-b8db50a2f05d)  
