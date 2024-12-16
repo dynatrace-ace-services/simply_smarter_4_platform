@@ -71,9 +71,6 @@ fetch dt.entity.host_group
 | sort upper(hostgroup)
 ```
 
-
-- the entities
-
-![image](https://github.com/user-attachments/assets/e93af1b2-fb1b-4dbf-b58e-20f4ba920a7e)
-
+## known limitation
+segement variable = maximum 1000
 
