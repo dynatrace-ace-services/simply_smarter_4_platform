@@ -1,7 +1,7 @@
 # Simply smarter - Data Layer Overview 
 
 Dashboard 
-- [Download](https://raw.githubusercontent.com/dynatrace-ace-services/segment/refs/heads/main/_OverviewWithSegment-Web_Service_Process_Host_0.1.json)  v0.1
+- [Download](https://raw.githubusercontent.com/dynatrace-ace-services/simply_smarter_4_platform/refs/heads/main/Simply%20smarter%20-%20Data%20Layer%20Overview%20.json)  v0.2
 - [Demo live](https://guu84124.apps.dynatrace.com/ui/document/v0/#share=a8181e08-be06-4265-8750-bd31bd68b0d3) (internal access)  
 (for demo live there is no segment with web application entities, you can use this one `host_group` / `google_cloud`)  
 
