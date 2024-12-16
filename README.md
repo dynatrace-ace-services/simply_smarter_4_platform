@@ -11,7 +11,7 @@ Use case
 Based on segment, this dashboard displays 
 - Application / Key User Action / Synthetic 
 - Service
-- K8s
+- Namespace / Workload / Pod
 - Process Group
 - Host
 
