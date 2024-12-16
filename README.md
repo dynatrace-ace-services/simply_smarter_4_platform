@@ -1,6 +1,4 @@
-# Overview Dashboard with segment
-
-## Legacy project
+# Simply smarter - Data Layer Overview 
 
 Dashboard 
 - [Download](https://raw.githubusercontent.com/dynatrace-ace-services/segment/refs/heads/main/_OverviewWithSegment-Web_Service_Process_Host_0.1.json)  v0.1
@@ -8,12 +6,13 @@ Dashboard
 (for demo live there is no segment with web application entities, you can use this one `host_group` / `google_cloud`)
 
 Based on segment, this dashboard displays 
-- Application based only on the satus (Preview metric is coming soon ... ) 
+- Application / Key User Action / Synthetic 
 - Service
+- K8s
 - Process Group
 - Host
 
-![image](https://github.com/user-attachments/assets/d42d76ef-6536-4802-9768-3b5bd82ca9c9)
+![image](https://github.com/user-attachments/assets/3dba6418-a13b-465b-b3a2-4e8298b07371)
 
 
 The status is 
@@ -47,6 +46,4 @@ fetch dt.entity.process_group
 
 ![image](https://github.com/user-attachments/assets/e93af1b2-fb1b-4dbf-b58e-20f4ba920a7e)
 
-## Cloud Native project
 
-- coming soon
