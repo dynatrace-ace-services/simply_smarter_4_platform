@@ -34,6 +34,7 @@ Drilldown
 
 Configure the segment, differnt possibility
 1) segment based on tags (recommanded)
+   
 ![image](https://github.com/user-attachments/assets/2f9c910e-a1ad-4f1b-99cc-b8db50a2f05d)
 ![image](https://github.com/user-attachments/assets/ffd2a9ed-35a1-4e34-ac36-e75e075fe4c3)
 ```
@@ -43,7 +44,8 @@ fetch dt.entity.cloud_application_namespace
 | sort namespace
 ```
 
-2) segment based on namespace  
+2) segment based on namespace
+
 ![image](https://github.com/user-attachments/assets/cef64f7e-9ff7-4e88-a11c-0ede6416c630)  
 
 with variables configuration = 
@@ -56,6 +58,7 @@ fetch dt.entity.cloud_application_namespace
 ```
 
 3) segment based on host group
+
 ![image](https://github.com/user-attachments/assets/91422f93-b5fa-4674-ba3b-1e87c684c6d4)  
 with variables configuration =  
 ```
