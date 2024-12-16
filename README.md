@@ -72,5 +72,5 @@ fetch dt.entity.host_group
 ```
 
 ## known limitation
-segement variable = maximum 1000
+segement variable = 1000 maximum
 
