@@ -37,7 +37,7 @@ Configure the segment, differnt possibilities
    
 ![image](https://github.com/user-attachments/assets/2f9c910e-a1ad-4f1b-99cc-b8db50a2f05d)  
 
-with variables configuration = 
+with variables configuration = (here `app` is the key value to filter)
 
 ![image](https://github.com/user-attachments/assets/ffd2a9ed-35a1-4e34-ac36-e75e075fe4c3)
 ```
