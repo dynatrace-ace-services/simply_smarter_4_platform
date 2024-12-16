@@ -23,7 +23,7 @@ The status is
 - orange if there is at least one problem closed - and no problem open
 - green if there is no problem
 
-Drilldown 
+Drilldown, ↗] Open record with
 - on the entity (new app or classic view)
 - on the most recent problem  
 
