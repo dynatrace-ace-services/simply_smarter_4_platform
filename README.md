@@ -71,5 +71,6 @@ fetch dt.entity.host_group
 ```
 
 ## known limitation
-segement variable = 1000 maximum
+segement variable = 1000 results for a variable   
+other limitation : https://docs.dynatrace.com/docs/manage/segments/reference/segments-reference-limits
 
