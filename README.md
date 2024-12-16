@@ -8,7 +8,7 @@ Use case
 - legacy application
 - cloud native application
 
-Based on segment, this dashboard displays 
+Based on segment for entities 
 - Application / Key User Action / Synthetic 
 - Service
 - Namespace / Workload / Pod
