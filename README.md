@@ -31,7 +31,7 @@ Drilldown
 
 
 Configure the segment, differnt possibilities
-1) segment based on tags (recommanded on process group)
+Sample 1) segment based on tags (recommanded on process group)
    
 ![image](https://github.com/user-attachments/assets/2f9c910e-a1ad-4f1b-99cc-b8db50a2f05d)  
 
@@ -46,7 +46,7 @@ fetch dt.entity.host
 | fields tags
 ```
 
-2) segment based on namespace
+Sample 2) segment based on namespace
 
 ![image](https://github.com/user-attachments/assets/cef64f7e-9ff7-4e88-a11c-0ede6416c630)  
 
@@ -59,7 +59,7 @@ fetch dt.entity.cloud_application_namespace
 | sort namespace
 ```
 
-3) segment based on host group
+Sample 3) segment based on host group
 
 ![image](https://github.com/user-attachments/assets/91422f93-b5fa-4674-ba3b-1e87c684c6d4)  
 with variables configuration =  
