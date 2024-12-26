@@ -40,7 +40,7 @@ with variables configuration = (here `app` is the tag key value to filter)
 
 ![image](https://github.com/user-attachments/assets/ffd2a9ed-35a1-4e34-ac36-e75e075fe4c3)
 ```
-fetch dt.entity.host
+fetch dt.entity.process_group
 | expand  tags
 | filter matchesPhrase(tags,"app")
 | dedup tags
