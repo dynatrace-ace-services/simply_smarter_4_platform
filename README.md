@@ -15,7 +15,7 @@ Based on segment for entities
 - Process Group
 - Host
 
-![image](https://github.com/user-attachments/assets/4a5a6015-2c69-43d4-aca6-3d35c07f6cb6)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/f403579d-76fa-43ca-a68f-d04022181e0d" />
 
 
 
