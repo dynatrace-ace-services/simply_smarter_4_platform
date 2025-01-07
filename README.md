@@ -1,6 +1,6 @@
 # Simply smarter - Data Layer Overview
 
-Dashboard v0.2
+Dashboard v0.3
 - [Download](https://raw.githubusercontent.com/dynatrace-ace-services/simply_smarter_4_platform/refs/heads/main/Simply%20smarter%20-%20Data%20Layer%20Overview%20.json) (public access)
 - [Demo live](https://guu84124.apps.dynatrace.com/ui/document/v0/#share=a8181e08-be06-4265-8750-bd31bd68b0d3) (internal access)  
 
@@ -15,7 +15,8 @@ Based on segment for entities
 - Process Group
 - Host
 
-![image](https://github.com/user-attachments/assets/3dba6418-a13b-465b-b3a2-4e8298b07371)
+![image](https://github.com/user-attachments/assets/4a5a6015-2c69-43d4-aca6-3d35c07f6cb6)
+
 
 
 The status is 
