@@ -14,8 +14,10 @@ Based on segment for entities
 - Namespace / Workload / Pod
 - Process Group
 - Host
+- Extensions
+- ...
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/f403579d-76fa-43ca-a68f-d04022181e0d" />
+![image](https://github.com/user-attachments/assets/bbd74b7a-4f92-4ea6-81a7-5b2acfc80a69)
 
 
 
