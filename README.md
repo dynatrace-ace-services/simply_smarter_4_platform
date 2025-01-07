@@ -2,7 +2,7 @@
 
 Dashboard v0.3
 - [Download](https://raw.githubusercontent.com/dynatrace-ace-services/simply_smarter_4_platform/refs/heads/main/Simply%20smarter%20-%20Data%20Layer%20Overview%20.json) (public access)
-- [Demo live](https://guu84124.apps.dynatrace.com/ui/document/v0/#share=a8181e08-be06-4265-8750-bd31bd68b0d3) (internal access)  
+- [Demo live](https://guu84124.apps.dynatrace.com/ui/document/v0/#share=65c1df1a-9f40-4513-8ef4-b35cd8380c33) (internal access)  
 
 Use case
 - legacy application
