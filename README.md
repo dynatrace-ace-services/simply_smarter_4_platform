@@ -8,6 +8,9 @@ Use case
 - legacy application
 - cloud native application
 
+Cost on Query DQL
+- No DPS cost generates by DQL on this dashboard
+ 
 Based on segment for entities 
 - Application / Key User Action / Synthetic 
 - Service
