@@ -1,6 +1,6 @@
 # Simply smarter - Data Layer Overview 
 
-Dahsboard Simply Smarter with Segments 
+Dashboard Simply Smarter with Segments 
 
 Dashboard v0.3
 - [Download](https://raw.githubusercontent.com/dynatrace-ace-services/simply_smarter_4_platform/refs/heads/main/Simply%20smarter%20-%20Data%20Layer%20Overview%20.json) (public access)
